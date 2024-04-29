@@ -1,0 +1,8 @@
+body {
+    background-image:  url("gundam.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+li  {
+    font-size: 30px;
+}
